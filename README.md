@@ -1,5 +1,7 @@
 # CS Final Project 2018
 
+Credit to Jeffrey Lu - Markville Secondary School (project partner)
+
 Mr. Chu CS Grade 11
 
 This project is a 2D top-down shooter styled after Call of Duty's Zombies mode.

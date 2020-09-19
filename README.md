@@ -18,3 +18,5 @@ coordinate system. Camera would then display anything within the area it's
 supposed to display.
 
 Sound is in the game as well and run on a separate thread.
+
+Check the releases to find the .exe of the project
